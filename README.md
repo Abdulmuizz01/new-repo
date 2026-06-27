@@ -1,2 +1,2 @@
-# new-repo updated
+# repo updated
 My name is Abdulmuizz
